@@ -9,3 +9,5 @@ Can be used to reduce hardware usage, prevent attacks form malware, and also kil
 that somehow open by themselves.
 
 (windows win)
+
+In the windows spirit, everything is written in vbscript and batch.
