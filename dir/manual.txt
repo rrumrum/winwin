@@ -1,0 +1,19 @@
+To add items to the live blacklist, type process names
+into bl.txt, one item per line.
+
+Ex:
+
+mspaint.exe
+iexplore.exe
+ribbons.scr
+
+Typing this into bl.txt would ensure that paint, internet explorer, and ribbons
+(the ugliest screensaver) can never run on your system.
+
+Use winwin.vbs to start and stop the live blacklist.
+
+If winwin is active when your sytem shuts off, it will come on
+automatically when the system starts up again.
+
+Note that winwin is not turned on by default.
+To start it, open winwin.vbs and type 'r'.
