@@ -6,6 +6,6 @@ Once the program is enabled by pressing r in the control panel, any process that
 will be automatically ended. Once turned on, the script also runs automatically on startup.
 
 Can be used to reduce hardware usage, prevent attacks form malware, and also kill off pesky windows programs
-that soemhow open by themselves.
+that somehow open by themselves.
 
 (windows win)
