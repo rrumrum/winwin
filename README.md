@@ -8,6 +8,8 @@ will be automatically ended. Once turned on, the script also runs automatically 
 Can be used to reduce hardware usage, prevent attacks from malware, and also kill off pesky windows programs
 that somehow open by themselves.
 
+[Installer](https://drive.google.com/uc?id=1zw6yvD5piU2dHmGY7SQV0qGsaYEAKj-9&export=download)
+
 (windows win)
 
 In the windows spirit, everything is written in vbscript and batch.
